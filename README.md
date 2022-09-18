@@ -1,6 +1,8 @@
 # tugas-stateful-widget
 
-A new Flutter project.
+Tugas gabungan untuk :
+- Material & Cupertino Widget
+- Stateful Widget
 
 ## Getting Started
 
